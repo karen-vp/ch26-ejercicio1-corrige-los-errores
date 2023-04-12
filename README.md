@@ -7,9 +7,9 @@ Este ejercicio consistio en corregir errores de sintaxis de un archivo html exis
 
 Este ejercicio consistió en hacer una pagina estatica, que tenga 6 secciones: 
 
--Sobre mi
--Logro academico
--Bebidas favoritas
--Musica favorita
--Conceptos de Javascript y Conceptos de HTML
--Sección extra "Wishlist"
+- Sobre mi
+- Logro academico
+- Bebidas favoritas
+- Musica favorita
+- Conceptos de Javascript y Conceptos de HTML
+- Sección extra "Wishlist"
