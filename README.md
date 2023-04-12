@@ -11,5 +11,5 @@ Este ejercicio consistió en hacer una pagina estatica, que tenga 6 secciones:
 -Logro academico
 -Bebidas favoritas
 -Musica favorita
--Conceptos de Javascript
+-Conceptos de Javascript y Conceptos de HTML
 -Sección extra "Wishlist"
