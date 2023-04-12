@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+:root{
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.2em;
+}
+
+body{
+    background-color: #b3e2ee;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+span{
+    font-weight: 700;
+}
+
+main{
+    padding: 80px;
+}
+
+.sobre-mi{
+    text-align: center;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}
