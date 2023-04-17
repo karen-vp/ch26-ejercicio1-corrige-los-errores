@@ -14,9 +14,6 @@ img{
     border-radius: 50%;
 }
 
-span{
-    font-weight: 700;
-}
 
 main{
     padding: 80px;
@@ -28,4 +25,10 @@ main{
     flex-flow: column nowrap;
     align-items: center;
     justify-content: center;
+}
+
+.table-wishlist, th, td{
+    padding: 25px;
+    border: 2px solid #2475f6;
+    border-collapse: collapse;
 }
